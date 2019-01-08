@@ -13,3 +13,7 @@ search-engine/data
 hs_err_*.log
 logs/
 scripts/
+.gitignore
+.idea
+*.iml
+
